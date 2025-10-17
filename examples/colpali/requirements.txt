@@ -2,3 +2,5 @@ colpali-engine
 datasets
 pgvector
 psycopg[binary]
+
+# Update: 2025-10-17
